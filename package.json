@@ -1,0 +1,21 @@
+{
+  "name": "botframework.customvision",
+  "version": "1.0.0",
+  "description": "A sample on how you can consume your Image Classifier in Custom Vision to your Microsoft Bot Framework using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizal",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^2.3.1-preview",
+    "botbuilder": "^3.16.0",
+    "botbuilder-azure": "^4.5.1",
+    "needle": "^2.4.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "restify": "^6.4.0"
+  },
+  "devDependencies": {}
+}
